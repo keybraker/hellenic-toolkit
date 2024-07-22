@@ -84,7 +84,7 @@ const result = toLowerCase(text); // "καλημέρα, κόσμε!"
 
 ## Contributing
 
-If you'd like to contribute to Mediarizer 2, please fork the repository and submit a pull request. We welcome contributions of all kinds, including bug fixes, feature requests, and code improvements.
+If you'd like to contribute to the project, please fork the repository and submit a pull request. We welcome contributions of all kinds, including bug fixes, feature requests, and code improvements.
 
 ## License
 
