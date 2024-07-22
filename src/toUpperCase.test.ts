@@ -1,4 +1,4 @@
-import { toUpperCase } from '../src/toUpperCase';
+import { toUpperCase } from './toUpperCase';
 
 describe('toUpperCase', () => {
   it('should convert Greek text to uppercase', () => {

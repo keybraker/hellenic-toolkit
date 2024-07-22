@@ -1,4 +1,4 @@
-import { toEnglishCharacters } from '../src/toEnglishCharacters';
+import { toEnglishCharacters } from './toEnglishCharacters';
 
 describe('toEnglishCharacters', () => {
   it('should convert Greek characters to English equivalents', () => {

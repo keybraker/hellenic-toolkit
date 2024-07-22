@@ -1,4 +1,4 @@
-import { toLowerCase } from '../src/toLowerCase';
+import { toLowerCase } from './toLowerCase';
 
 describe('toLowerCase', () => {
   it('should convert Greek text to lowercase', () => {

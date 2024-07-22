@@ -1,4 +1,4 @@
-import { countGreekCharacters } from '../src/countGreekCharacters';
+import { countGreekCharacters } from './countGreekCharacters';
 
 describe('countGreekCharacters', () => {
   it('should count Greek characters in a text', () => {
@@ -14,3 +14,5 @@ describe('countGreekCharacters', () => {
     expect(countGreekCharacters('hello')).toBe(0);
   });
 });
+
+

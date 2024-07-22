@@ -38,6 +38,17 @@ const text = "Καλημέρα, κόσμε!";
 const result = toEnglishCharacters(text); // "Kalimera, kosme!"
 ```
 
+### `toGreekCharacters`
+
+Converts English to Greek characters, when they have an equivalent greek letter.
+
+```typescript
+import { toEnglishCharacters } from "hellenic-toolkit";
+
+const text = "HPA!"; // This is english
+const result = toEnglishCharacters(text); // "ΗΡΑ!" this is Greek
+```
+
 ### `isGreek`
 
 Checks if a string contains only Greek characters.

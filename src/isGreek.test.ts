@@ -1,4 +1,4 @@
-import { isGreek } from '../src/isGreek';
+import { isGreek } from './isGreek';
 
 describe('isGreek', () => {
   it('should return true for Greek text', () => {
