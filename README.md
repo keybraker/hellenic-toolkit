@@ -88,4 +88,4 @@ If you'd like to contribute to the project, please fork the repository and submi
 
 ## License
 
-The project is released under the MIT License. See [LICENSE](https://github.com/mediarizer/docs/LICENSE) for details.
+The project is released under the MIT License. See [LICENSE](https://github.com/keybraker/hellenic-toolkit/blob/main/LICENSE) for details.
